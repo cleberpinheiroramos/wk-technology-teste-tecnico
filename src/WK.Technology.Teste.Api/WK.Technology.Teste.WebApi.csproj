@@ -51,4 +51,8 @@
     <ProjectReference Include="..\WK.Technology.Teste.Services\WK.Technology.Teste.Services.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Views\Categoria\" />
+  </ItemGroup>
+
 </Project>
